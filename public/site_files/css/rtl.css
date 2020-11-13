@@ -1,0 +1,337 @@
+
+body{
+    font-family: 'Droid Arabic Kufi' !important;
+}
+
+h1, h2, h3, h4, h5, h6, a, p, span, button {
+    font-family: 'Droid Arabic Kufi' !important;
+
+}
+.card-service span {
+    font-size: 14px
+}
+.logo_site {
+    float: right;
+}
+.main_menu > li > a {
+    font-size: 16px;
+}
+.f-menu li img {
+    width: 20px;
+    margin-left: 10px;
+    margin-right:0;
+}
+.paylist li {
+    float: right;
+    margin-left: 10px;
+    margin-right:0;
+}
+.icon-social i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.proTxt i a{
+    margin: 10px;
+    color: #595965;
+}
+.seasonsport-search-box i {
+    left: 17px;
+    right:auto;
+}
+.seasonsport-search-box input[type="submit"] {
+    position: absolute;
+    left:0;
+    right: auto;
+    width: 100px;
+    height: 69px;
+}
+.seasonsport-search-box input[type="text"] {
+    font-family: 'Droid Arabic Kufi';
+}
+#myModal-heart, #myModal-cart {
+    text-align: left;
+}
+#myModal-cart .sec-title, #myModal-heart .sec-title {
+    right: 10px;
+    left: auto;
+}
+.modal-dialog {
+    text-align: right;
+}
+.pric-product3 .paylist li {
+    float: right;
+    margin-left: 10px;
+    margin-right: auto;
+}
+.span1, .span2 {
+    display: inline-block;
+}
+.pric-product1 .span1 {
+    margin-left: 30px;
+    margin-right: auto;
+}
+.drop .cont {
+    left: 50%;
+    right: auto;
+}
+.add-cart, .add-favorite {
+    display: inline-block;
+}
+.pull-left {
+    float: right !important;
+}
+
+.margin-20px-left {
+    text-align: right;
+}
+.padding-five-tb {
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+.logo-site {
+    float: right;
+}
+.header_middle {
+    float: left;
+    margin-left: 0px;
+}
+.main_menu {
+    float: right;
+    margin-right: 100px;}
+.main_menu > li {
+    float: right;
+    margin-right: 40px;
+}
+.main_menu > li:last-child {
+    margin-right: 40px;
+}
+.user_cart {
+    float: left;
+}
+.user_cart > li {
+    float: right;
+}
+.user_cart > li:last-child {
+    margin-right: 15px;
+}
+.tab-label-color .option-input {
+    margin-left:20px;
+    margin-right: auto;
+}
+.tab-label label p {
+    margin-right: 2px;
+    margin-left: 10px;
+    font-family: bahij !important;
+}
+.sec-body img {
+    left: 0;
+    right:auto;
+}
+.check-radio .checkmark {
+    left:auto;
+    right: 0;
+}
+
+.check-radio {
+    padding-right: 35px;
+    font-family: bahij
+}
+.fileinput-new.input-group .btn-file, .fileinput-new .input-group .btn-file {
+    border-radius:4px 0 0 4px;;
+}
+.input-group-addon:not(:first-child) {
+    border-right: 0;
+}
+.pro-h6 {
+    padding-right:15px;
+}
+.carousel-indicators {
+    right: 40%;
+}
+
+.pric .pric-pro{
+    margin-left: 30px;
+    margin-right: auto;
+}
+
+.edit-profail {
+    right:auto;
+    left: 0;
+}
+.f-right {
+    position: absolute;
+    left: 0;
+    width: 30px;
+    right: auto;
+}
+.address-remove i {
+    float: left;
+}
+.section-products .products-right {
+    margin-left: 80px;
+}
+
+.form_contact .form-group > label {
+    left:auto;
+    right: 0px;
+    font-family: 'Droid Arabic Kufi';
+}
+.contact_info_box ul li {
+    padding-right: 40px;
+    font-family: 'Droid Arabic Kufi';
+}
+.contact_info_box ul li img {
+    right: 0;
+    left:auto
+}
+.section-about-us .row {
+    margin-right: 0
+}
+.my-information ul li {
+    font-family: 'Droid Arabic Kufi';
+}
+.add-tTxt h6 {
+    margin-right: 15px;
+}
+.quantity {
+    padding-left: 4px;
+    padding-right: 10px;
+}
+.order-info img {
+    float: right;
+    width: 100px;
+}
+.order-info .order-text {
+    margin-right: 100px;
+    margin-left: auto
+}
+.order-info .span-to .span1 {
+    margin-right:auto;
+    margin-left: 20px;
+}
+b, strong {
+    font-weight: 700;
+    font-family: 'Droid Arabic Kufi';
+}
+label {
+    font-family: 'Droid Arabic Kufi';
+}
+.section-sign-out .f-right {
+    left: 100px;
+    right:auto;
+
+}
+.pagination>li:first-child>a, .pagination>li:first-child>span {
+    transform: rotate(180deg);
+}
+.pagination>li:last-child>a, .pagination>li:last-child>span {
+    transform: rotate(180deg);
+}
+.boutiques-info img {
+    float: right;
+}
+
+.boutiques-info .boutiques-text {
+    margin-right: 25px;
+}
+.section-boutiques-page h2 {
+    font-family: 'Droid Arabic Kufi';
+}
+.total-price {
+    margin-right: 50px;
+}
+.section-sign-out .or-span span {
+    padding:15px 25px;
+}
+
+
+.products-right {
+    margin-left: 100px;
+}
+
+.bottom-footer .copyright {
+    color: #f1f1f1;
+    text-align: left;
+    float: initial
+}
+.ti-shopping-cart {
+    margin-left:10px;
+    margin-right:auto;
+}
+.ti-heart {
+    margin-left:10px;
+    margin-right:auto;
+}
+.sale-btn {
+    right: 60px;
+    left:auto;
+    background: #1e8cc4;
+    padding: 20px;
+    top: 40px;
+    position: absolute;
+    border-radius: 100%;
+    color: #fff;
+}
+.form_contact .form-control {
+    font-family: 'Droid Arabic Kufi';
+}
+.modal-dialog .form-control {
+    height: 50px;
+    color: #555;
+    font-family: 'Droid Arabic Kufi';
+}
+.select-pro {
+    padding: 15px;
+    font-family: 'Droid Arabic Kufi';
+}
+.dropdown-menu_st3:after {
+    right: 20px;
+}
+.add-product p, .tab-label label p, .img-top-product span, .img-top-product span, .boutiques-info .boutiques-text h6,, .bahij {
+    font-family: bahij !important;
+}
+#carousel-custom .carousel-indicators {
+    text-align: right;
+}
+.boutiques-info ul li{
+    font-family: arial;
+    color: #555;
+    font-weight: bold;
+}
+
+.number-date {
+    background: #ddd;
+    padding: 10px ;
+    margin-bottom: 15px;
+}
+.span-date {
+    float: left;
+    font-weight: bold;
+}
+.span-date span{
+    color: #36B0A7
+}
+.post-date {
+    margin-right: 40px;
+}
+.history_orders {
+    padding: 15px;
+    border: 1px solid #eee;
+}
+.table-responsive {
+    margin-bottom: -15px;
+
+}
+
+#myModal-edit-address .tab-label {
+    width: 20px;
+    float: right;
+    height: auto;
+    margin-right: auto;
+    margin-left: 10px;
+}
+
+.form_contact .btn_contact {
+    float:left;
+}
+
